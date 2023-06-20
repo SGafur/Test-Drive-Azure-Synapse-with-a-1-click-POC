@@ -465,7 +465,7 @@
 			},
 			"SynapseWorkspaceName": {
 				"type": "string",
-				"defaultValue": "conaftvufmyzhmdqpoc.database.windows.net"
+				"defaultValue": "conaftvufmyzhmdqpocws1"
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
@@ -481,7 +481,7 @@
 			},
 			"datalakeAccountName": {
 				"type": "string",
-				"defaultValue": "conaftvufmyzhmdqpocws1"
+				"defaultValue": "conaftvufmyzhmdqpoc"
 			}
 		},
 		"folder": {
